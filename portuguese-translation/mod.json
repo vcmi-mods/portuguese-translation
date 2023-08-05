@@ -1,7 +1,7 @@
 {	
 	"name" : "Portuguese (brazilian) translation",
 	"description" : "Portuguese (brazilian) translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/portuguese-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "convert to png" ],
 		"1.0.0" : [ "Initial release based on https://www.centraldetraducoes.net.br/2007/03/traducao-do-heroes-of-might-and-magic-iii-complete-pc.html" ]
 	},
 	"german" : {
