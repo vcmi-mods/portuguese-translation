@@ -1423,7 +1423,7 @@
 	"core.arraytxt.129" : "%s, este é o seu último dia para capturar uma cidade ou será banido desta terra.",
 	"core.arraytxt.13" : "Máxima",
 	"core.arraytxt.130" : "Astrólogos proclamam o mês %s.\n\nTodas as moradias aumentam a população.",
-	"core.arraytxt.131" : "Astrólogos proclamam o mês %s.\n\nA população de %s dobra!\n\nTodas as moradias aumentam a população.",
+	"core.arraytxt.131" : "Astrólogos proclamam o mês de %s.\n\nA população de %s dobra!\n\nTodas as moradias aumentam a população.",
 	"core.arraytxt.132" : "Astrólogos proclamam o mês da PRAGA!\n\nTodas as populações são reduzidas pela metade.",
 	"core.arraytxt.133" : "Astrólogos proclamam a semana %s.\n\nTodas as moradias aumentam a população.",
 	"core.arraytxt.134" : "Astrólogos proclamam a semana %s.\n\nProdução de %s +5.\n\nTodas as moradias aumentam a população.",
