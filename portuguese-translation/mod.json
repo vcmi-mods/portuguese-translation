@@ -1,8 +1,8 @@
 {	
 	"name" : "Portuguese (brazilian) translation",
 	"description" : "Portuguese (brazilian) translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.1",
-	"author" : "",
+	"version" : "1.0.2",
+	"author" : "Altieres Lima",
 	"contact" : "https://github.com/vcmi-mods/portuguese-translation",
 	"modType" : "Translation",
 	"language" : "portuguese",
@@ -13,7 +13,8 @@
 	"changelog" : 
 	{ 
 		"1.0.1" : [ "convert to png" ],
-		"1.0.0" : [ "Initial release based on https://www.centraldetraducoes.net.br/2007/03/traducao-do-heroes-of-might-and-magic-iii-complete-pc.html" ]
+		"1.0.0" : [ "Initial release based on https://www.centraldetraducoes.net.br/2007/03/traducao-do-heroes-of-might-and-magic-iii-complete-pc.html" ],
+		"1.0.2" : [ "Complete game retranslation" ]
 	},
 	"german" : {
 		"name" : "Portugiesische (brasilianisch) Übersetzung",
@@ -23,6 +24,13 @@
 		"name" : "Tradução para o português (brasileiro)",
 		"description" : "Tradução para o português (brasileiro) de Heroes of Might and Magic III: Complete Edition"	
 	},
+	"screenshots" : [
+		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen1.png",
+		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen2.png",
+		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen3.png",
+		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen4.png",
+		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen5.png"
+	],
 	"translations" : [
 		"config/vcmi-portuguese/game.json",
 		"config/vcmi-portuguese/maps.json",
