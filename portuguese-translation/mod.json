@@ -1,7 +1,7 @@
 {	
 	"name" : "Portuguese (brazilian) translation",
 	"description" : "Portuguese (brazilian) translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "Altieres Lima",
 	"contact" : "https://github.com/vcmi-mods/portuguese-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.5" : ["Applied several fixes"],
 		"1.0.4" : [ "Added subtitles to videos", "Made several corrections" ],
 		"1.0.3" : [ "Full revision" ],
 		"1.0.2" : [ "Complete game retranslation" ],
@@ -23,8 +24,8 @@
 		"description" : "Portugiesische (brasilianisch) Übersetzung von Heroes of Might and Magic III: Complete Edition"	
 	},
 	"portuguese" : {
-		"name" : "Tradução para o português (brasileiro)",
-		"description" : "Tradução para o português (brasileiro) de Heroes of Might and Magic III: Complete Edition"	
+		"name" : "Tradução para o português do Brasil",
+		"description" : "Tradução para o português do Brasil de Heroes of Might and Magic III: Complete Edition"	
 	},
 	"screenshots" : [
 		"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/screenshots/screen1.png",
