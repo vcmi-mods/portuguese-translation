@@ -1,7 +1,7 @@
 {	
 	"name" : "Portuguese (brazilian) translation",
 	"description" : "Portuguese (brazilian) translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.5",
+	"version" : "1.0.6",
 	"author" : "Altieres Lima",
 	"contact" : "https://github.com/vcmi-mods/portuguese-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.6" : ["Added chronicles translation"],
 		"1.0.5" : ["Applied several fixes"],
 		"1.0.4" : [ "Added subtitles to videos", "Made several corrections" ],
 		"1.0.3" : [ "Full revision" ],
@@ -37,6 +38,7 @@
 	"translations" : [
 		"config/vcmi-portuguese/game.json",
 		"config/vcmi-portuguese/maps.json",
-		"config/vcmi-portuguese/campaigns.json"
+		"config/vcmi-portuguese/campaigns.json",
+		"config/vcmi-portuguese/chronicles.json"
 	]
 }
